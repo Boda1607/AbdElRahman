@@ -7,7 +7,7 @@ A modern, responsive personal portfolio website with smooth animations, multiple
 
 ## 📸 Preview
 
-![Portfolio Screenshot](5.jpg)
+![Portfolio Screenshot](5.png)
 
 ## 📁 Features
 
@@ -31,7 +31,7 @@ A modern, responsive personal portfolio website with smooth animations, multiple
 
 ├── index.html
 ├── style.css
-├── image.jpg / 2.jpg / 3.JPG / 4.jpg / 5.jpg
+├── image.jpg / 2.jpg / 3.JPG / 4.jpg / 5.png
 ├── script.js (optional enhancements)
 └── README.md
 
